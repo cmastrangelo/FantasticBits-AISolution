@@ -7,7 +7,7 @@ My solution to the "Fantastic Bits" challenge from CodinGame, a competitive prog
 Ranked 200th out of 2399 participants.
 
 ## Challange Explanation
-FantasticBits consists of controling two agents who are playing versus another 2 enemy agents in a 2D map. The goal is to score points by moving towards a ball, throwing spells on the ball and attempting to score on the opposite side.
+FantasticBits consists of developing an algorithm to control two agents who are playing versus another 2 enemy agents in a 2D map. The goal is to score points by moving towards a ball, throwing spells on the ball and attempting to score on the opposite side.
 
 ## Solution Strategy
 This solution consists of using geometry to calculate distances and angles in which to move and cast spells. I created a small simulation of the movements in order to predict enemy movement and when the ball will be at a specific time based on the information available.
